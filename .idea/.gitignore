@@ -3,6 +3,7 @@
 /workspace.xml
 # Datasource local storage ignored files
 /../../../../../../:\Users\westl\IdeaProjects\Schoology client\.idea/dataSources/
+/../../../../../../:\Users\westl\IdeaProjects\Schoology client\src\main\java\ClientCred.java
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
